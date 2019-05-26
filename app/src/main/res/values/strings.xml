@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">fyp</string>
+    <string name="capture_an_image">Capture an Image</string>
+    <string name="upload_an_image">Upload an Image</string>
+    <string name="view_history">View History</string>
+
 </resources>
